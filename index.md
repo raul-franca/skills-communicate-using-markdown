@@ -4,3 +4,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Image of Yaktocat
+
+# Add code 
+
+```javascript
+var myVar = "Hello, world!";
+```
