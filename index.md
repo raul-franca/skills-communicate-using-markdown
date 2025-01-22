@@ -1,6 +1,6 @@
-# H1 Header
+# Communicate using Markdown
 
-# Exemple add a image
+# Use Image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Image of Yaktocat
@@ -10,3 +10,9 @@ Image of Yaktocat
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+# Make a task list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
